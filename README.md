@@ -14,5 +14,5 @@ For relevant coursework, code, and documentation, please see:
 ---
 Please don't hesitate to contact me for further information
 
-Best regards,
+Best regards,  
 **Maximilian Pries**
